@@ -28,4 +28,6 @@ Proteção contra a Tormenta também é eficaz contra os efeitos da magia um mom
 
 Vidas valiosas de heróis foram perdidas devido a esse defeito. Mas, mesmo em sua forma precária, a magia foi de grande valia para exploradores em busca de mais informação sobre a tempestade rubra. Perceber a diferença entre uma versão antiga, falha, e a versão atual, requer um teste bem-sucedido de Identificar Magia (CD 12). Os estatutos da Academia decretam que proteção contra a Tormenta deve ser ensinada (ou fornecida através de pergaminho) a qualquer pessoa ou grupo disposto a explorar áreas de Tormenta, em troca da promessa de um relatório (caso os exploradores sobrevivam). 
 
-Exploradores da Tormenta são aconselhados a procurar pela Academia o quanto antes para adquirir, sem qualquer custo, a magia aperfeiçoada. Componentes Materiais: um escudo de prata em miniatura. 
+Exploradores da Tormenta são aconselhados a procurar pela Academia o quanto antes para adquirir, sem qualquer custo, a magia aperfeiçoada. 
+
+Componentes Materiais: um escudo de prata em miniatura 1 TO. 
